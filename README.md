@@ -22,9 +22,9 @@ Added clues where to commit steps, through these emojis :apple: :pear: :grapes:.
 Before submitting, update the following table:
 
 #### Excercise submission
-- Name (or initials):
-- github username: 
-- Estimation of hours I worked on it: 
+- Name (or initials):Omer Moshe
+- github username: omerm80
+- Estimation of hours I worked on it: 3 hours
  
 #### Prerequisites
 
